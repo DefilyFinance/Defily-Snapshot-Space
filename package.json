@@ -1,0 +1,8 @@
+{
+  "name": "@defily/defily-spaces",
+  "version": "1.0.0",
+  "description": "",
+  "repository": "",
+  "license": "MIT",
+  "files": ["spaces"]
+}
